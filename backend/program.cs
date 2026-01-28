@@ -7,7 +7,7 @@ Console.WriteLine(dayOfWeek);
 Console.WriteLine("Хотите продолжить?");
 string answer = Console.ReadLine();
 
-if (answer.ToLower() == "yes")
+if (answer.ToLower() == "да")
 {
     Console.WriteLine("Продолжаем");
 }
