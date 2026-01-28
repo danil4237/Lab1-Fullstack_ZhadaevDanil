@@ -1,0 +1,15 @@
+D:\lab\ISRPO2\Lab1_ISRPO_ZhadaevDanil\backend\bin\Debug\net10.0\backend.exe
+D:\lab\ISRPO2\Lab1_ISRPO_ZhadaevDanil\backend\bin\Debug\net10.0\backend.deps.json
+D:\lab\ISRPO2\Lab1_ISRPO_ZhadaevDanil\backend\bin\Debug\net10.0\backend.runtimeconfig.json
+D:\lab\ISRPO2\Lab1_ISRPO_ZhadaevDanil\backend\bin\Debug\net10.0\backend.dll
+D:\lab\ISRPO2\Lab1_ISRPO_ZhadaevDanil\backend\bin\Debug\net10.0\backend.pdb
+D:\lab\ISRPO2\Lab1_ISRPO_ZhadaevDanil\backend\obj\Debug\net10.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab\ISRPO2\Lab1_ISRPO_ZhadaevDanil\backend\obj\Debug\net10.0\backend.AssemblyInfoInputs.cache
+D:\lab\ISRPO2\Lab1_ISRPO_ZhadaevDanil\backend\obj\Debug\net10.0\backend.AssemblyInfo.cs
+D:\lab\ISRPO2\Lab1_ISRPO_ZhadaevDanil\backend\obj\Debug\net10.0\backend.csproj.CoreCompileInputs.cache
+D:\lab\ISRPO2\Lab1_ISRPO_ZhadaevDanil\backend\obj\Debug\net10.0\backend.sourcelink.json
+D:\lab\ISRPO2\Lab1_ISRPO_ZhadaevDanil\backend\obj\Debug\net10.0\backend.dll
+D:\lab\ISRPO2\Lab1_ISRPO_ZhadaevDanil\backend\obj\Debug\net10.0\refint\backend.dll
+D:\lab\ISRPO2\Lab1_ISRPO_ZhadaevDanil\backend\obj\Debug\net10.0\backend.pdb
+D:\lab\ISRPO2\Lab1_ISRPO_ZhadaevDanil\backend\obj\Debug\net10.0\backend.genruntimeconfig.cache
+D:\lab\ISRPO2\Lab1_ISRPO_ZhadaevDanil\backend\obj\Debug\net10.0\ref\backend.dll
